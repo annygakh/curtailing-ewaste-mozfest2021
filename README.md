@@ -1,7 +1,8 @@
-Resources to be added soon!
-
-
-
+# Presentation
+TBA
+# Session brainstorming
+TBA
+# Resources
 ## Starting your own repair-cafe
 - https://www.repaircafe.org/en/start/
 ## Latest news on Right to Repair
