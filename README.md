@@ -7,6 +7,7 @@ Close ups of the board:
 ![Actions to take at the community level](community.png)
 ![Actions to take at the legislative level](legislative.png)
 # Resources
+[Louis Rossmann showing how to repair things](https://www.youtube.com/user/rossmanngroup/videos)
 ## Starting your own repair-cafe
 - https://www.repaircafe.org/en/start/
 ## Latest news on Right to Repair
