@@ -1,5 +1,6 @@
 # Presentation
 TBA
+[Presentation file](Right to Repair.pdf)
 # Session brainstorming
 TBA
 # Resources
