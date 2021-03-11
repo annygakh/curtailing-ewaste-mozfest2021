@@ -1,5 +1,5 @@
 # Presentation
-[Presentation slides]([presentation.pdf)
+[Presentation slides](presentation.pdf)
 # Session brainstorming
 TBA
 # Resources
