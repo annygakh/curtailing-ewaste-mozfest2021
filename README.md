@@ -1,7 +1,11 @@
 # Presentation
 [Presentation slides](presentation.pdf)
 # Session brainstorming
-TBA
+![Brainstorming](brainstorming.png)
+Close ups of the board:
+![Actions to take at the individual level](individual.png)
+![Actions to take at the community level](community.png)
+![Actions to take at the legislative level](legislative.png)
 # Resources
 ## Starting your own repair-cafe
 - https://www.repaircafe.org/en/start/
